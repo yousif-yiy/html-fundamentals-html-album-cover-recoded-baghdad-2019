@@ -61,6 +61,14 @@ p {
   margin-bottom: 15px;
 }
 
+span {
+  display: inline-block;
+  font-size: 1em;
+  line-height: 1em;
+  letter-spacing: .35em;
+  vertical-align: top;
+  padding-top: 10px;
+}
 
 img {
   display: inline-block;
@@ -95,25 +103,10 @@ img {
   padding: 130px 35px 35px;
 }
 
-#title-box  {
-    width: 275px;
-    height: 165px;
-    background: rgba(247,211,27,1);
-    margin-left: 150px;
-    padding-top: 25px
+#title-box {
+  width: 252px;
+  height: 165px;
+  background: rgba(247,211,27,1);
+  margin-left: 163px;
+  padding-top: 25px;
 }
-span.l1 {
-    display: inline-block;
-    font-size: 1em;
-    line-height: 1em;
-    letter-spacing: .35em;
-    vertical-align: top;
-    padding-top: 10px;
-}
-span.l2 {
-    display: inline-block;
-    font-size: 1.3em;
-    line-height: 1em;
-    letter-spacing: .35em;
-    vertical-align: top;
-    padding-top: 10px;
